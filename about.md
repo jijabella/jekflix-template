@@ -23,4 +23,3 @@ TRPG 라이트 유저로 잠깐 있던 경험
 
 새집 : www.twitter.com/RedmAngel  
 신언서판집 : www.facebook.com/redmangel  
-과거 블로그(예전 자료) : blog.daum.net/jijabella
