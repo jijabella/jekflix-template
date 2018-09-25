@@ -7,7 +7,7 @@ permalink: /about/
 
 <img itemprop="image" class="img-rounded" src="https://avatars2.githubusercontent.com/u/42578157?s=460&v=4" alt="Kwanghee Lee">
 
-## About
+## 자기 소개
 
 1978년 2월 24일 생
 길벗 출판사 전자책 담당
@@ -21,5 +21,5 @@ TRPG 라이트 유저로 잠깐 있던 경험
 
 10년 넘게 글을 않쓰는 아직 실력이 모자른 소설가
 
-새집 : ['www.twitter.com/RedmAngel'](http://www.twitter.com/RedmAngel){: target="_blank"}  
-신언서판집 : ['www.facebook.com/redmangel'](http://www.facebook.com/redmangel){: target="_blank"}  
+새집 : [www.twitter.com/RedmAngel](http://www.twitter.com/RedmAngel){: target="_blank"}  
+신언서판집 : [www.facebook.com/redmangel](http://www.facebook.com/redmangel){: target="_blank"}  
