@@ -21,6 +21,6 @@ TRPG 라이트 유저로 잠깐 있던 경험
 
 10년 넘게 글을 않쓰는 아직 실력이 모자른 소설가
 
-새집 : www.twitter.com/RedmAngel
-신언서판집 : www.facebook.com/redmangel
+새집 : www.twitter.com/RedmAngel  
+신언서판집 : www.facebook.com/redmangel  
 과거 블로그(예전 자료) : blog.daum.net/jijabella
