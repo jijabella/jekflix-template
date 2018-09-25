@@ -1,21 +1,21 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
-description: Some text about your blog.
+title: 레드 엔젤의 서재
+email: alice-b@hanmail.net
+description: 업으로서의 전자책과 개인 취미에 대한 공간
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jijabella.github.io/" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
+username: 레드 엔젤 이광희
+user_description: 레드엔젤 이광희의 블로그입니다.
 disqus_username: disqus_username
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
+github_username: jijabella
+facebook_username: redmangel
+twitter_username: RedmAngel
 instagram_username: instagram_username
 linkedin_username: linkedin_username
 medium_username: medium_username
