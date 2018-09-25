@@ -5,13 +5,22 @@ description: Some description.
 permalink: /about/
 ---
 
-<img itemprop="image" class="img-rounded" src="http://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_200,w_200/v1504971955/neo_ruqszk.jpg" alt="Your Name">
+<img itemprop="image" class="img-rounded" src="https://avatars2.githubusercontent.com/u/42578157?s=460&v=4" alt="Kwanghee Lee">
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+1978년 2월 24일 생
+길벗 출판사 전자책 담당
+SBi 전자책 제작 강의 진행
+책공장 북세미나 전자책 제작 강의 진행
+ePub 전자책 제작 테크닉 저자
+
+TRPG 라이트 유저로 잠깐 있던 경험
+몇 개의 TRPG 공개룰 북과 PC 게임 번역팀에 잠깐 있던 경험
+– SRD 3.4 시리즈, 액션 SRD, 에일리언 대 프레데터(미약한 부분), 네버윈터 나이츠 2(제피르의 폭풍 서브 퀘스트 1개)
+
+10년 넘게 글을 않쓰는 아직 실력이 모자른 소설가
+
+새집 : www.twitter.com/RedmAngel
+신언서판집 : www.facebook.com/redmangel
+과거 블로그(예전 자료) : blog.daum.net/jijabella
