@@ -1,4 +1,4 @@
 ---
 layout: category
-category: '카테고리_테스트'
+category: '카테고리테스트'
 ---
