@@ -15,7 +15,7 @@ permalink: /contact/
 <div class="container">
 
   <h2>Talk to me</h2>  
-  <h1>궁금한 점이나 연락이 필요할시 이용해 주세요.:-)</h1>
+  <h3>궁금한 점이나 연락이 필요할시 이용해 주세요.:-)</h3>
 
   <div id="form" class="contact-form">
     <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
