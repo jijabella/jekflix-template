@@ -7,7 +7,7 @@ layout: post
 guid: http://red-angel.kr/?p=40
 permalink: /?p=40
 categories:
-  - 섀도우 런-very easy
+  - shadowrun
 tags:
   - sf
   - 기획
