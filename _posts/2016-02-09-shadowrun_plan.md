@@ -7,8 +7,7 @@ layout: post
 image : https://avatars3.githubusercontent.com/u/42578157?s=400&v=4
 guid: http://red-angel.kr/?p=40
 permalink: /?p=40
-category:
-  - 'shadowrun'
+category: 'shadowrun'
 tags:
   - sf
   - 기획
