@@ -4,6 +4,7 @@ title: 기획서
 date: 2016-02-09T16:48:10+00:00
 author: 이 광희
 layout: post
+image : https://avatars3.githubusercontent.com/u/42578157?s=400&v=4
 guid: http://red-angel.kr/?p=40
 permalink: /?p=40
 categories:
