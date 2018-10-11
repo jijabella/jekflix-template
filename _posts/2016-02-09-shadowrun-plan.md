@@ -1,5 +1,5 @@
 ---
-title: 기획서
+title: '기획서'
 date: 2016-02-09T16:48:10+00:00
 author: 이 광희
 layout: post
@@ -11,7 +11,7 @@ tags:
   - 단편영화
   - 사이버 펑크
   - 섀도런
-  - 표시2
+  - 표시3
 ---
 출처 : 다음 블로그(<http://blog.daum.net/jijabella/10787310>)
 
