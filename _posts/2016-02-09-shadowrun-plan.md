@@ -1,18 +1,17 @@
 ---
-title: '기획서'
-date: 2016-02-09T16:48:10+00:00
-author: 이 광희
 layout: post
-image : https://avatars3.githubusercontent.com/u/42578157?s=400&v=4
-category: 'shadowrun'
+title: "테스트용-아르테미스"
+description: 미리보기 화면에는 어떻게 표시 될지.
+image: 'https://i2.wp.com/image.aladin.co.kr/product/8913/45/letslook/8937429012_f.jpg?zoom=2&resize=500%2C816'
+category: '카테고리테스트'
 tags:
-  - sf
-  - 기획
-  - 단편영화
-  - 사이버 펑크
-  - 섀도런
-  - 표시3
+- 블로그
+- 태그
+twitter_text: 트위터 게시글은 이렇게 갑니다.
+introduction: 미리보기 화면에는 이렇게 표시됩니다2.
+
 ---
+
 출처 : 다음 블로그(<http://blog.daum.net/jijabella/10787310>)
 
 조이SF에서 추진했다가 중단한 팬무비 계획입니다. 언제가 될런지는 모르겠지만, 반드시 완성하고 싶은 욕심이 있는 프로젝트입니다. 관심 있으신 분들의 참여와 비판을 기다리고 있습니다.
