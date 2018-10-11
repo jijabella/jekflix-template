@@ -1,15 +1,17 @@
 ---
+title: "기획서"
+date: 2016-02-09T16:48:10+00:00
+author: 이 광희
 layout: post
-title: "테스트용-아르테미스"
-description: 미리보기 화면에는 어떻게 표시 될지.
-image: 'https://i2.wp.com/image.aladin.co.kr/product/8913/45/letslook/8937429012_f.jpg?zoom=2&resize=500%2C816'
-category: '카테고리테스트'
+image : https://avatars3.githubusercontent.com/u/42578157?s=400&v=4
+category: 'shadowrun'
 tags:
-- 블로그
-- 태그
-twitter_text: 트위터 게시글은 이렇게 갑니다.
-introduction: 미리보기 화면에는 이렇게 표시됩니다2.
-
+  - sf
+  - 기획
+  - 단편영화
+  - 사이버 펑크
+  - 섀도런
+  - 표시4
 ---
 
 출처 : 다음 블로그(<http://blog.daum.net/jijabella/10787310>)
