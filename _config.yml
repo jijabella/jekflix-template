@@ -35,10 +35,6 @@ links:
     url: /about/
   - title: Contact
     url: /contact/
-  - title: Contact2
-    url: /contact/  
-  - title: 카테고리
-    url: /_layout/category.html      
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
