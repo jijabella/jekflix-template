@@ -20,7 +20,9 @@ twitter_username: RedmAngel
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: /:title/
+permalink: date
+
+
 
 # Plugins
 gems:
