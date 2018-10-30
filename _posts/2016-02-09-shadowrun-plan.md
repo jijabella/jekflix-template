@@ -3,7 +3,7 @@ title: "기획서"
 date: 2016-02-09T16:48:10+00:00
 layout: post
 description: 섀도런 기획서
-image : https://ppss.kr/wp-content/uploads/2016/01/3-5.jpg
+image : https://jijabella.github.io/_posts/image/shadowrun.jpg
 category: shadowrun
 tags:
   - sf
