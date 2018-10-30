@@ -1,9 +1,9 @@
 ---
 title: "기획서"
 date: 2016-02-09T16:48:10+00:00
-author: 이 광희
 layout: post
-image : https://avatars3.githubusercontent.com/u/42578157?s=400&v=4/c_scale,w_60
+description: 섀도런 기획서
+image : 'image/shadowrun.jpg'
 category: shadowrun
 tags:
   - sf
