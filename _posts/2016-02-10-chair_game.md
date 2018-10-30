@@ -2,9 +2,8 @@
 layout: post
 title: "[습작동화?]의자놀이"
 date: 2016-02-10T13:50:57+00:00
-description: 어른이용 동화, 공지영 선생님의 동명 리포트가 있습니다 
-image: https://res.cloudinary.com/red-angel-kr/image/upload/v1540875761/blog_img/etc.jpg  
-
+description: 어른이용 동화, 공지영 선생님의 동명 리포트가 있습니다
+image: https://res.cloudinary.com/red-angel-kr/image/upload/v1540875761/blog_img/etc.jpg
 category: '단편소설'  
 tags:
   - 동화
@@ -13,7 +12,7 @@ tags:
   - 의자놀이
   - 좀 같이 살자...
 twitter_text: [습작동화?]의자놀이 - 어른이용 동화
-introduction: 어른이용 동화, 공지영 선생님의 동명 리포트가 있습니다 
+introduction: 어른이용 동화, 공지영 선생님의 동명 리포트가 있습니다
 ---
 
 출처 : 다음 블로그(<http://blog.daum.net/jijabella/18350283>)
