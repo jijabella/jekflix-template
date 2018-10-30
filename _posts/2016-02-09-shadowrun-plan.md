@@ -13,7 +13,8 @@ tags:
   - 표시7
 ---
 
-![](./image/shadowrun.jpg)
+![ex_screenshot](./image/after_dungeon.jpg)
+![s](./image/shadowrun.jpg)
 
 
 출처 : 다음 블로그(<http://blog.daum.net/jijabella/10787310>)
