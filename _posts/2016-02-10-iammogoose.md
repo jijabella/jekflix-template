@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "저는 몽구스입니다. 여러분들도 할 수 있어요. - 이걸로 돈 좀 벌어 봅시다."
-date: 2018-10-11T21:55
+date: 2016-02-10
 description:
 image: https://www.drivethrurpg.com/images/45/60161.jpg
 category: '독서노트'  
