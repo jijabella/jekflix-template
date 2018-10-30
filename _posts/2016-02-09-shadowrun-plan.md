@@ -3,7 +3,7 @@ title: "기획서"
 date: 2016-02-09T16:48:10+00:00
 layout: post
 description: 섀도런 기획서
-image : https://github.com/jijabella/jijabella.github.io/blob/master/_posts/image/shadowrun.jpg
+image : 'src=/image/shadowrun.jpg'
 category: shadowrun
 tags:
   - sf
