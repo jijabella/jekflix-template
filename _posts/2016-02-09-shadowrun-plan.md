@@ -3,7 +3,6 @@ title: "기획서"
 date: 2016-02-09T16:48:10+00:00
 layout: post
 description: 섀도런 기획서
-image : ''
 category: shadowrun
 tags:
   - sf
@@ -14,7 +13,8 @@ tags:
   - 표시7
 ---
 
-![SR](./image/shadowrun.jpg)
+![](./image/shadowrun.jpg)
+
 
 출처 : 다음 블로그(<http://blog.daum.net/jijabella/10787310>)
 
