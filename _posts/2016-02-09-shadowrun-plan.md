@@ -2,7 +2,7 @@
 title: "기획서"
 date: 2016-02-09T16:48:10+00:00
 layout: post
-image " https://res.cloudinary.com/red-angel-kr/image/upload/v1540874333/blog_img/shadowrun.jpg
+image : https://res.cloudinary.com/red-angel-kr/image/upload/v1540874333/blog_img/shadowrun.jpg
 description: 섀도런 기획서
 category: shadowrun
 tags:
