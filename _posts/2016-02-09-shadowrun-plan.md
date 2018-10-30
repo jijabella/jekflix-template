@@ -2,6 +2,7 @@
 title: "기획서"
 date: 2016-02-09T16:48:10+00:00
 layout: post
+image " https://res.cloudinary.com/red-angel-kr/image/upload/v1540874333/blog_img/shadowrun.jpg
 description: 섀도런 기획서
 category: shadowrun
 tags:
@@ -12,11 +13,7 @@ tags:
   - 섀도런
   - 표시7
 ---
-
-![ex_screenshot](./image/after_dungeon.jpg)
-![s](./image/shadowrun.jpg)
-
-
+ 
 출처 : 다음 블로그(<http://blog.daum.net/jijabella/10787310>)
 
 조이SF에서 추진했다가 중단한 팬무비 계획입니다. 언제가 될런지는 모르겠지만, 반드시 완성하고 싶은 욕심이 있는 프로젝트입니다. 관심 있으신 분들의 참여와 비판을 기다리고 있습니다.
