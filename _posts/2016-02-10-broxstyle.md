@@ -4,7 +4,6 @@ title: "브롱크스 스타일"
 date: 2016-02-10T13:45:15+00:00
 description:단편소설 브롱크스 스타일
 image: https://res.cloudinary.com/red-angel-kr/image/upload/v1540888114/blog_img/bronxcover.jpg  
-
 category: '단편소설'  
 tags:
   - 단편소설  
