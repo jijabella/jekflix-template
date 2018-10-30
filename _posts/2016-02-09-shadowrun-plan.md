@@ -14,7 +14,7 @@ tags:
   - 표시7
 ---
 
-<src=/image/shadowrun.jpg />
+![ex_screenshot](./image/shadowrun.jpg)
 
 출처 : 다음 블로그(<http://blog.daum.net/jijabella/10787310>)
 
