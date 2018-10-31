@@ -8,8 +8,8 @@ category: '독서노트'
 tags: 
   - 민트패스
   - 아이리버
-  - 양덕준
-twitter_text: [전자책]거인과 싸우는 법
+  - 양덕준 . 
+twitter_text: [전자책]거인과 싸우는 법 . 
 introduction: 아이리버 창립자 양덕준 전 대표의 비즈니스 발자취
 ---
  
