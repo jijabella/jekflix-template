@@ -12,7 +12,7 @@ tags:
   - 그랜드 디자인
   - 스티브 호킹
   - 전자책
-twitter_text: [전자책]그랜드 디자인
+twitter_text: '[전자책]그랜드 디자인'
 introduction: 스티브 호킹 박사남이 서술한 우주의 탄생 원리
 ---
 
