@@ -4,7 +4,7 @@ title: "콜 미 바이 유어 네임 - 첫 사랑의 추억에 관한 성장 이
 date: 2018-05-12T18:13:44+00:00
 description: 첫 사랑의 추억에 관한 성장 이야기
 image: https://m.media-amazon.com/images/M/MV5BNDk3NTEwNjc0MV5BMl5BanBnXkFtZTgwNzYxNTMwMzI@._V1_.jpg
-category: '독서노트'  
+category: '영화노트'  
 tags: 
   - 첫 사랑
   - 콜 미 바이 유어 네임
