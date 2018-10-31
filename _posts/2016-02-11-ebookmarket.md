@@ -83,7 +83,7 @@ introduction: 2010년의 전자책 시장을 돌아봄
 그런데&#8230; 저는 이 생각만 들더라구요&#8230;
 
 
-{ % youtube https://youtu.be/sTFFXAa13ok % } 
+{% youtube https://youtu.be/sTFFXAa13ok %} 
 
 
 물론 농담입니다.^^;
