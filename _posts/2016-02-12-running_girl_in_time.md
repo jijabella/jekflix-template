@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[전자책]시간을 달리는 소녀"
-date: 016-02-12T20:36:50+00:00
+date: 2016-02-12T20:36:50+00:00
 description: 일본 SF의 거목 쓰쓰이 야스타카의 단편집
 image: http://image.aladin.co.kr/product/4743/66/letslook/1155640284_f.jpg
 
