@@ -4,8 +4,7 @@ title: "[전자책]거인과 싸우는 법 - 현대 신화의 영웅 일대기"
 date: 2016-02-12T20:58:48+00:00
 description: 아이리버 창립자 양덕준 전 대표의 비즈니스 발자취
 image: http://image.aladin.co.kr/product/795/10/letslook/8994731008_f.jpg
-
-category: '독서노트'  
+category: '독서노트' 
 tags: 
   - 민트패스
   - 아이리버
