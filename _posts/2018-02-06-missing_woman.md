@@ -2,9 +2,8 @@
 layout: post
 title: "[종이책]신원 미상 여자 - 부유하는 정체성의 인물들"
 date: 2018-02-06T20:50:19+00:00
-description: [종이책]신원 미상 여자
+description: 신원 미상 여자
 image: http://image.aladin.co.kr/product/44/88/letslook/8982817670_f.jpg
-
 category: '독서노트'  
 tags: 
   - 신원 미상 여자
