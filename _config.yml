@@ -3,7 +3,7 @@ title: 레드 엔젤의 서재
 email: alice-b@hanmail.net
 description: 업으로서의 전자책과 개인 취미에 대한 공간
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jijabella.github.io/" # the base hostname & protocol for your site
+url: "http://red-angel.kr/" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
