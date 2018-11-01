@@ -3,7 +3,7 @@ layout: post
 title: "[전자책]도리언 그레이의 초상 - 극한을 추구하는 탐미주의"
 date: 2018-01-16T19:50:12+00:00
 description: 도리언 그레이의 초상
-image: is4.mzstatic.com/image/thumb/Publication6/v4/e3/01/c3/e301c351-b61b-bce6-d22d-64c9d30092b8/source/225x225bb.jpg
+image: http://image.aladin.co.kr/product/682/87/letslook/8974283700_f.jpg
 category: '독서노트'  
 tags: 
   - 데카당스
