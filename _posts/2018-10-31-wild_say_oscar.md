@@ -16,7 +16,7 @@ twitter_text: '[전자책]와일드가 말하는 오스카 '
 introduction: '우아한 나르시스트 오스카 와일드는 어떻게 인터뷰를 할까요?'
 ---
 
-<https://jekyllcodex.org/uploads/Paper_Navy_-_08_-_Swan_Song.mp3>
+<jekyllcodex.org/uploads/Paper_Navy_-_08_-_Swan_Song.mp3>
 
 애플북스 : <https://itunes.apple.com/us/book/id1286607515?mt=11>
 
