@@ -2,7 +2,7 @@
 layout: post
 title: "[1인 출판 전자책공장 매뉴얼]02 전자책의 종류"
 date: 2017-02-21T12:49:14+00:00
-description: [1인 출판 전자책공장 매뉴얼]02 전자책의 종류
+description: '[1인 출판 전자책공장 매뉴얼]02 전자책의 종류'
 image: https://res.cloudinary.com/red-angel-kr/image/upload/v1540874333/blog_img/seminar.jpg
 
 category: '전자책세미나_강의'
