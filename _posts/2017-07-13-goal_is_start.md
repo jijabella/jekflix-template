@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "[전자책]1219 끝이 시작이다 - 왜 문재인 대통령인가에 대한 답"
-date: 2017-07-13T22:51:22+00:00
-description: 왜 문재인 대통령인가에 대한 답
-image: http://image.aladin.co.kr/product/3373/77/letslook/8955616902_f.jpg
+layout: post  
+title: "[전자책]1219 끝이 시작이다 - 왜 문재인 대통령인가에 대한 답"  
+date: 2017-07-13T22:51:22+00:00  
+description: 왜 문재인 대통령인가에 대한 답  
+image: http://image.aladin.co.kr/product/3373/77/letslook/8955616902_f.jpg  
 
 category: '독서노트'  
 tags: 
@@ -11,10 +11,9 @@ tags:
   - 2012년 대선
   - 문재인
   - 복기
-  - 정치
-twitter_text: '[전자책]1219 끝이 시작이다 - 왜 문재인 대통령인가에 대한 답'
-introduction: '지난 2012년 대선 때 많은 사람들이 충격을 받았습니다.'  
-
+  - 정치  
+twitter_text: '[전자책]1219 끝이 시작이다 - 왜 문재인 대통령인가에 대한 답'  
+introduction: '지난 2012년 대선 때 많은 사람들이 충격을 받았습니다.'
 ---
 
 리디북스 : <https://ridibooks.com/v2/Detail?id=754010664>
