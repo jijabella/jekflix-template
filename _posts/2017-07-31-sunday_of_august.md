@@ -2,7 +2,7 @@
 layout: post
 title: "[종이책]팔월의 일요일들 - 작가의 스타일, 개성이란 무엇일까에 대한 의문이 조금 해결 되었다."
 date: 2017-07-31T22:58:13+00:00
-description: 팔월의 일요일들 - 작가의 스타일, 개성이란 무엇일까에 대한 의문이 조금 해결 되었다.
+description: 팔월의 일요일들 - 작가의 스타일, 개성이란 무엇일까에 대한 의문이 조금 해결 되었다
 image: http://image.aladin.co.kr/product/5140/41/letslook/8954634125_f.jpg
 
 category: '독서노트'  
