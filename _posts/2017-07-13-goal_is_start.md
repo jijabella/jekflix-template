@@ -7,7 +7,6 @@ image: http://image.aladin.co.kr/product/3373/77/letslook/8955616902_f.jpg
 
 category: '독서노트'  
 tags: 
-  - 1219
   - 2012년 대선
   - 문재인
   - 복기
