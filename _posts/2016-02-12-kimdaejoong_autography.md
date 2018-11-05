@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[인상 깊은 구절]김대중 자서전 1"
-date: 016-02-12T21:54:07+00:00
+date: 2016-02-12T21:54:07+00:00
 description: 김대중 전 대통령님의 자서전을 읽던 중 남긴 글
 image: http://image.yes24.com/momo/TopCate88/MidCate09/8783566.jpg
 category: '독서노트'  
