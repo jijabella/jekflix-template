@@ -3,7 +3,7 @@ layout: post
 title: "[전자책]왜 다시 도요타인가 - 위기를 기회로 만든 기업 경영 전략서"
 date: 2017-02-08T23:59:35+00:00
 description: 위기를 기회로 만든 기업 경영 전략서
-image: http://bookimg.gilbut.co.kr/book/BN001585/rn_zoom_BN001585.jpg {: height="100px" width="100px"}
+image: (http://bookimg.gilbut.co.kr/book/BN001585/rn_zoom_BN001585.jpg) {: height="100px" width="100px"}
 category: '독서노트'  
 tags: 
   - 더퀘스트
