@@ -16,10 +16,12 @@ twitter_text: '[종이책]Designed by Apple in California - 애플 팬들에게 
 introduction: '이 책이 처음 공개되었을 때 그 크기(무려 양장 앨범만한 크기에 무게)와 가공할만한 가격에 놀랐었습니다.'
 ---
 
+
 <figure>
   <img src="http://pbs.twimg.com/media/Czht8xXUkAArecL.jpg" />
   <figcaption>이런 책입니다. 알루미늄 성애자의 제작 공정...</figcaption>
 </figure>
+
 
 <http://www.apple.com/designed-by-apple>
 
