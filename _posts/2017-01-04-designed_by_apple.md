@@ -17,7 +17,7 @@ introduction: '이 책이 처음 공개되었을 때 그 크기(무려 양장 �
 ---
 
 <figure>
-  <img src="pbs.twimg.com/media/Czht8xXUkAArecL.jpg" />
+  <img src="http://pbs.twimg.com/media/Czht8xXUkAArecL.jpg" />
   <figcaption>이런 책입니다. 알루미늄 성애자의 제작 공정...</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ introduction: '이 책이 처음 공개되었을 때 그 크기(무려 양장 �
 이 책이 처음 공개되었을 때 그 크기(무려 양장 앨범만한 크기에 무게)와 가공할만한 가격에 놀랐었습니다. 애플 팬들 사이에서도 논란이 이에 대해(주로 가격적인 면) 논란이 있었던 걸로 기억합니다. 이때까지만 하더라도 제가 이 책을 실물로 관람(네! 읽거나 보는게 아니라 관람입니다!)하게 될 줄은 꿈에도 생각지 못했습니다.
 
 <figure>
-  <img src="pbs.twimg.com/media/CzIFLu2VEAEPLsR.jpg" />
+  <img src="http://pbs.twimg.com/media/CzIFLu2VEAEPLsR.jpg" />
   <figcaption>배송된 상자의 포장을 풀다보면 나오는 책</figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ introduction: '이 책이 처음 공개되었을 때 그 크기(무려 양장 �
 물론, 가끔은 이상한 것도 있습니다. 하키퍽 마우스 같은 걸 능가하는 이런 거라든지요.
 
 <figure>
-  <img src="pbs.twimg.com/media/C1VVFGjUsAEjU7R.jpg" />
+  <img src="http://pbs.twimg.com/media/C1VVFGjUsAEjU7R.jpg" />
   <figcaption>아이팟이 춥다고 그래요? 산타클로스 선물용? 아이패드용이 나오지 않은게 다행이네요. 내건 프로 버전이니 더욱 더...ㄱ-</figcaption>
 </figure>
 
