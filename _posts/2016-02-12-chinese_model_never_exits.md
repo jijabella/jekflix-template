@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[종이책]중국식 모델은 없다."
-date: 016-02-12T21:08:17+00:00
+date: 2016-02-12T21:08:17+00:00
 description: "중국식 모델은 없다."
 image: http://image.aladin.co.kr/product/920/28/letslook/899461205X_f.jpg
 
