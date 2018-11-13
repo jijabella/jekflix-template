@@ -37,6 +37,8 @@ links:
     url: /about/
   - title: Contact
     url: /contact/
+  - title: 독서노트
+    url: http://red-angel.co.kr/category/독서노트
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
