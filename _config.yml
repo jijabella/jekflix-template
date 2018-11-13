@@ -37,8 +37,6 @@ links:
     url: /about/
   - title: Contact
     url: /contact/
-  - title: 영화노트
-    url: /category/영화노트/
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
