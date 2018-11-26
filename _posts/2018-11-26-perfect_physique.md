@@ -16,7 +16,7 @@ twitter_text: ''
 introduction: ''
 ---
 
-<iframe width="560" height="auto" src="https://www.youtube.com/embed/Ew2uoiqjqXo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ew2uoiqjqXo" frameborder="0" allowfullscreen></iframe>
 
 일전에 적었던 펌핑 아이언[http://red-angel.co.kr/%EC%98%81%ED%99%94%EB%85%B8%ED%8A%B8/2016/02/15/pumping_iron.html] 처럼 보디빌더 및 피트니스 모델들에 관한 다큐멘터리입니다. 아놀드 슈왈츠제너가 한창 활동했던 시기에는 강인하고 거대한 육체미를 자랑하는 대회들이 주였는데, 반해 이제는 피트니스, 피지크 등 다양한 방면의 육체미 대회들이 생겨나고 있습니다.
 
