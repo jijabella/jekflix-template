@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "라마와의 랑데부 - 경이로운 존재에 대한 찬사"
+title: "[종이책]라마와의 랑데부 - 경이로운 존재에 대한 찬사"
 date: 2018-11-28T22:00
 description: "인간은 자신의 인식을 벗어난 존재에 대해 찬사와 함께 두려움을 느낍니다. 그래서, 그 존재를 신이라고 부릅니다."
 image: http://image.aladin.co.kr/product/10551/10/letslook/K312530238_f.jpg
