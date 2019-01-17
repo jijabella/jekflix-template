@@ -3,7 +3,7 @@ layout: post
 title: "[전자책]서원에 드리우는 공포 - 네크로노미콘이 동쪽으로 간 까닭은?"
 date: 2019-01-17
 description: "크툴루 신화의 세계에 한국적인 설정이 들어간 소설이라서 한편으로는 반가운 면도 있었습니다."
-image: https://misc.ridibooks.com/cover/323000350/xxlarge
+image: https://res.cloudinary.com/red-angel-kr/image/upload/v1540874333/blog_img/gallary_note.jpg
 category: '독서노트'  
 tags: 
   - 전자책
