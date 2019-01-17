@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "[전자책]서원에 드리우는 공포 - 네크로노미콘이 동쪽으로서원에 드리우는 공포 - 네크로노미콘이 동쪽으로 간 까닭은? 간 까닭은?"
+title: "[전자책]서원에 드리우는 공포 - 네크로노미콘이 동쪽으로 간 까닭은?"
 date: 2019-01-17
-description: ""
+description: "크툴루 신화의 세계에 한국적인 설정이 들어간 소설이라서 한편으로는 반가운 면도 있었습니다."
 image: https://misc.ridibooks.com/cover/323000350/xxlarge
 category: '독서노트'  
 tags: 
   - 전자책
   - 크툴루신화
   - 공포 소설
-twitter_text: ''
+twitter_text: '서원에 드리우는 공포 - 네크로노미콘이 동쪽으로 간 까닭은? 간 까닭은?'
 introduction: '저자 분의 필명이 '아우터사이더'여서 혹시라고 생각했는데, 역시였습니다.^^;'
 ---
 
