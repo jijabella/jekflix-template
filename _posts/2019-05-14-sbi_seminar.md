@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2019년 5월 14일 SBI 전자책 제작 강의 자료"
-date: 2019-04-30
+date: 2019-05-14
 description: "전자책 제작 강의에 사용할 실습용 자료입니다."
 image: https://res.cloudinary.com/red-angel-kr/image/upload/v1540874333/blog_img/seminar.jpg
 category: '전자책세미나_강의'
