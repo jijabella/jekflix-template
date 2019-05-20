@@ -2,7 +2,7 @@
 layout: post
 title: "[전자책]위로받지 못한 사람들 - 우리는 왜 위로받지 못할까?"
 date: 2019-05-20
-description: ""
+description: "라이더를 포함해서 등장인물들 모두가 위로 받지 못한 사람들은(위안을 얻지 못한)인 이유는 자신의 삶과 의지를 모두 타인에게 맡겼기 때문이 아닐까 싶습니다."
 image: http://image.aladin.co.kr/product/1444/96/letslook/8937490536_f.jpg
 category: '독서노트'
 tags: 
