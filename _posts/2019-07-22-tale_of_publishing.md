@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "출핀정담-작지만 나만의 방식으로_도전은 계속된다"
+title: "출판정담-작지만 나만의 방식으로_도전은 계속된다"
 date: 2019-07-22
 description: "전자책과는 직접적인 관련이 있다고 할 수는 없겠지만, 전자책 포맷이 담을 콘텐츠의 시발점을 기획하고, 회사를 운영해 가는 대표분들의 철학을 어느 정도 알 수 있었습니다."
 image: https://res.cloudinary.com/red-angel-kr/image/upload/v1540874333/blog_img/ebook_vil.jpg
@@ -12,7 +12,7 @@ tags:
   - 고도화된 취향
   - 대표
   - 사장
-twitter_text: '출핀정담-취향은 어떻게 회사의 모토가 되는가'
+twitter_text: '출판정담-취향은 어떻게 회사의 모토가 되는가'
 introduction: "취향은 어떻게 회사의 모토가 되는가"
 ---
 
