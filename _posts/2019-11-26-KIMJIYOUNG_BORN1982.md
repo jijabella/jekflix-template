@@ -16,7 +16,7 @@ twitter_text: '82년생 김지영 - 여자로서 삶을 이겨내기를 바라�
 introduction: "세상이 강요한 성역활로 인해, 자신의 감정을 표현하지 못하는 무지아닌 무지에 처한 인간에 대한 연민을 느낄 수 있기를 바랍니다."
 ---
 
-<iframe width="420" height="315" src="https://youtu.be/Gz0ZeY1U4vY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gz0ZeY1U4vY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 작년 10월 쯤에 원작 소설을 읽었습니다.
 
