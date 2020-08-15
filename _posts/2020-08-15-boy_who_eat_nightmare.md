@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[종이책]악몽을 먹고 자란 소년"
+title: "[종이책]악몽을 먹고 자란 소년 - 소년은 어른으로 자란다."
 date: 2020-08-15
 description: "하시던 일이 잘 안되시는 분들이 있다면 한 번 읽어 보길 권합니다."
 image: http://image.aladin.co.kr/product/24402/89/letslook/S702631896_f.jpg
