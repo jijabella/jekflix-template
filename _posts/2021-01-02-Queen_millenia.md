@@ -31,6 +31,6 @@ introduction: "신적인 위치에 있음에도 인간을 사랑하는 마음을
 
 신적인 위치에 있음에도 인간을 사랑하는 마음을 가진 존재의 이야기는 참 매력적인것 같습니다. 그리고, 그 과정이 프로메테우스처럼 꽤 고난에 가득찬 여정을 겪으면서도 꺽이지 않는 의지를 보여준다면 더 그렇습니다.
 
-<iframe width="420" height="315" src="https://youtu.be/ilbstRM_RPE" frameborder="0" allowfullscreen></iframe>
+https://youtu.be/ilbstRM_RPE
 
 오랜만에 이 주제곡을 들으면서 한 번 읽어 보시면 어떨까요?
