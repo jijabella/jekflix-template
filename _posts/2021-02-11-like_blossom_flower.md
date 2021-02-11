@@ -15,7 +15,7 @@ introduction: "이 가족들의 따뜻한 말과 느낌들을 읽어 가면서 �
 
 [리디북스](https://ridibooks.com/books/3397000015)
 
-작년에 읽었던 '7년간의 마법 같은 기적(http://red-angel.co.kr/%EB%8F%85%EC%84%9C%EB%85%B8%ED%8A%B8/2020/05/25/magical_events_of_7years.html)'의 형제 자매 같은 책이라고 할 수 있습니다.
+작년에 읽었던 '[7년간의 마법 같은 기적](http://red-angel.co.kr/%EB%8F%85%EC%84%9C%EB%85%B8%ED%8A%B8/2020/05/25/magical_events_of_7years.html)'의 형제 자매 같은 책이라고 할 수 있습니다.
 
 실제로 두 책의 저자분들은 자매 사이이며, 각자 말기 치매암 환자인 아버지를 저마다의 시각으로 다루고 있습니다.
 
